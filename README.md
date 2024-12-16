@@ -1,4 +1,9 @@
 # Task Tracker CLI Application
+A task management cli app written in Java.
+
+# Problem Statement
+[problem-statement](https://roadmap.sh/projects/task-tracker)       
+@credit: https://roadmap.sh/
 
 ## Overview
 
